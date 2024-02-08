@@ -1,2 +1,1 @@
-# goodmaple
-goodmaple 웹서버
+웹서버
