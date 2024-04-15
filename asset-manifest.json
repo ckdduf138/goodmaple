@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/algo/static/css/main.b61defda.css",
-    "main.js": "/algo/static/js/main.6fd819c5.js",
+    "main.js": "/algo/static/js/main.0c202f8f.js",
     "index.html": "/algo/index.html",
-    "main.b61defda.css.map": "/algo/static/css/main.b61defda.css.map",
-    "main.6fd819c5.js.map": "/algo/static/js/main.6fd819c5.js.map"
+    "main.0c202f8f.js.map": "/algo/static/js/main.0c202f8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b61defda.css",
-    "static/js/main.6fd819c5.js"
+    "static/js/main.0c202f8f.js"
   ]
 }
